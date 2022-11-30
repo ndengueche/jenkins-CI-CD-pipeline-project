@@ -17,9 +17,6 @@ public class Greeter {
    */
   public final String greet(final String someone) {
 
-    String password = "Admin@123";
-    System.out.println("Hello");
-
     return String.format("Hello Avinash, %s!", someone);
   }
 }

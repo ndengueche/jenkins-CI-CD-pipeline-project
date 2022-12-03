@@ -22,7 +22,7 @@
 <div class="header">
   <h1>BOSS MAN!!!</h1>
   <p>This Java Web Application Was Deployed Using CI/CD</p>
-  <h1>i will be great in this<h1>
+  <h1>i will be great in this project<h1>
 </div>
 </body>
 </html>
